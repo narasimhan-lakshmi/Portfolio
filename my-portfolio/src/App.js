@@ -1,7 +1,7 @@
   import React, { useState } from 'react';
   import { Github, Twitter, Linkedin, Sun, Moon, ExternalLink, Code, Target } from 'lucide-react';
 
-  const Portfolio = () => {
+  const App = () => {
     const [activeSection, setActiveSection] = useState('About');
     const [isDarkMode, setIsDarkMode] = useState(true);
 
@@ -554,4 +554,4 @@
     );
   };
 
-  export default Portfolio;
+  export default App;
