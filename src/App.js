@@ -16,7 +16,7 @@
         tags: ["react", "vite", "mongodb", "express", "node.js"],
         gradient: "bg-gradient-to-br from-gray-800 to-gray-900",
         icon: "🤖",
-        githubLink: "https://github.com/narasimhan-lakshmi/AI-Summariser"
+        githubLink: "https://github.com/narasimhan-lakshmi/Ai--Summarizer"
       },
       {
         id: 2,
@@ -24,7 +24,7 @@
         description: "Full-stack expense tracker with Node.js and Express backend, MongoDB for data storage, and responsive frontend. Users can sign up, log in, and manage expenses.",
         tags: ["html", "css", "javascript", "node", "express", "mongodb"],
         gradient: "bg-gradient-to-br from-green-500 via-teal-500 to-blue-500",
-        githubLink: "https://github.com/narasimhan-lakshmi/Expense-Tracker"
+        githubLink: "https://github.com/narasimhan-lakshmi/Expense-Tracker-"
       },
       {
         id: 3,
@@ -32,7 +32,7 @@
         description: "Real-time chat application using Node.js, Express, and Socket.io with Redis for session management. Integrated Winston for logging and multiple chat rooms support.",
         tags: ["react", "node.js", "express", "socket.io", "redis"],
         gradient: "bg-gradient-to-br from-purple-500 via-pink-500 to-red-500",
-        githubLink: "https://github.com/narasimhan-lakshmi/ChatCord"
+        githubLink: "https://github.com/narasimhan-lakshmi/Chat-App"
       },
       {
         id: 4,
